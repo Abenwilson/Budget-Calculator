@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "166451039455",
+    "project_id": "budget-app-141b7",
+    "storage_bucket": "budget-app-141b7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166451039455:android:3e369df7d87c94dccfed6a",
+        "android_client_info": {
+          "package_name": "com.example.budget_calculator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATmfv1LMcu17idp3o5qWIHumT4km9QWLU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
