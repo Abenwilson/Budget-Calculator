@@ -57,7 +57,7 @@ class About extends StatelessWidget {
             ),
             SizedBox(height: 5),
             Text(
-              "© 2025 YourAppName. All rights reserved.",
+              "© 2025 Budget Calculator. All rights reserved.",
               style: TextStyle(fontSize: 12, color: Colors.grey),
               textAlign: TextAlign.center,
             ),
